@@ -1,0 +1,8 @@
+/var/log/test/test.log {
+    rotate 5
+    hourly
+    compress
+    delaycompress
+    missingok
+    create 0644 root root
+}
