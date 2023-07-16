@@ -37,3 +37,7 @@ logrotate -f /etc/logrotate.d/samplerotate
 ### Screenshot of the run
 
 ![Screenshot](RunScreenshot.png)
+
+### References
+1. [logrotate(8) - Linux man page](https://linux.die.net/man/8/logrotate)
+2. [logrotate cheatsheet](https://www.ullright.org/ullWiki/show/logrotate-cheatsheet)
