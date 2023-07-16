@@ -33,3 +33,7 @@ tail -f /var/log/test/test.log
 docker exec -it testlogrotate bash
 logrotate -f /etc/logrotate.d/samplerotate
 ```
+
+### Screenshot of the run
+
+![Screenshot](RunScreenshot.png)
